@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67" started-at="2023-04-20T12:20:55 IST" finished-at="2023-04-20T12:20:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67" started-at="2023-04-20T12:20:55 IST" finished-at="2023-04-20T12:20:55 IST">
+      <class name="customer.C2Test">
+        <test-method status="PASS" signature="t3()[pri:0, instance:customer.C2Test@396f6598]" name="t3" duration-ms="1" started-at="2023-04-20T12:20:55 IST" finished-at="2023-04-20T12:20:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method status="PASS" signature="t4()[pri:0, instance:customer.C2Test@396f6598]" name="t4" duration-ms="1" started-at="2023-04-20T12:20:55 IST" finished-at="2023-04-20T12:20:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+      </class> <!-- customer.C2Test -->
+      <class name="customer.C1Test">
+        <test-method status="PASS" signature="t1()[pri:0, instance:customer.C1Test@51cdd8a]" name="t1" duration-ms="6" started-at="2023-04-20T12:20:55 IST" finished-at="2023-04-20T12:20:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:customer.C1Test@51cdd8a]" name="t2" duration-ms="1" started-at="2023-04-20T12:20:55 IST" finished-at="2023-04-20T12:20:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+      </class> <!-- customer.C1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
